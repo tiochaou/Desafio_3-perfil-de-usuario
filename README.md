@@ -31,6 +31,7 @@ HTML5 / CSS — Estruturação de formulários e estilização inline.
 📁 Estrutura de Ficheiros
 
 Plaintext
+
 ├── 15d_login.php   # Formulario de login, seleção de cor e validação no BD
 
 ├── 15d_perfil.php  # Página restrita do utilizador com cor de fundo dinâmica
